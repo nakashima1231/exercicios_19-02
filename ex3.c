@@ -9,5 +9,5 @@ int main(void) {
     scanf("%f", &altura);
     
     float imc = peso / (altura * altura);
-    printf("imc: %.2f", imc);
+    printf("imc: %f", imc);
 }
